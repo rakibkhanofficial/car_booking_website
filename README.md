@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-![Uploading image.png…]()
+![image](https://github.com/rakibkhanofficial/car_booking_website/assets/39366407/62752cce-d68a-4b54-987c-d5049d5627cb)
 
 
 First, run the development server:
